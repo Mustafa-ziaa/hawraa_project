@@ -1,0 +1,19 @@
+{
+  "name": "graduation-project-management",
+  "version": "1.0.0",
+  "description": "graduation-project-management by mustafa ziaa for more projects contact me on whatsapp: 07750898474",
+  "license": "ISC",
+  "author": "mustafa ziaa",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@prisma/client": "^6.19.3",
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3",
+    "prisma": "^6.19.3"
+  }
+}
